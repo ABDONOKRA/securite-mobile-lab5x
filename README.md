@@ -14,5 +14,10 @@
 
   ## Étape 1 — Installer et lancer l’APK:Drop and drag lapp dans lemulateure 
 <img width="662" height="901" alt="image" src="https://github.com/user-attachments/assets/142f0bf1-5c3d-43f5-9f93-a73b4e978994" />
+ ## ou avec la commande 
+   adb install UnCrackable-Level2.apk
+
+   <img width="676" height="110" alt="image" src="https://github.com/user-attachments/assets/acfef8be-a026-4f58-b72e-2a8f8eb959c9" />
+
 # Linstalation reussit :
 <img width="580" height="114" alt="image" src="https://github.com/user-attachments/assets/dbf9d71f-5d57-47b8-ba00-228d142dabac" />
