@@ -41,12 +41,14 @@
 
 <img width="1133" height="552" alt="image" src="https://github.com/user-attachments/assets/56997921-ce99-4b0d-b36e-0cf0020080fe" />
 
-## Activity main   
-<img width="1160" height="1046" alt="image" src="https://github.com/user-attachments/assets/499e3878-5d66-4536-865b-1c5370f310fe" />
+## Activity main     
+ 
+<img width="1160" height="1046" alt="image" src="https://github.com/user-attachments/assets/499e3878-5d66-4536-865b-1c5370f310fe" />  
+
   # Code Check 
 
-    <img width="384" height="166" alt="image" src="https://github.com/user-attachments/assets/f1119e4b-0fdc-43ce-bd3c-188aa5d05776" />
-    Le mot-clé native = le code est dans libfoo.so, pas en Java !
+
+    
 
 
 
