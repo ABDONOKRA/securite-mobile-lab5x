@@ -23,12 +23,17 @@
    <img width="676" height="110" alt="image" src="https://github.com/user-attachments/assets/acfef8be-a026-4f58-b72e-2a8f8eb959c9" />
 
 # Linstalation reussit :
-<img width="580" height="114" alt="image" src="https://github.com/user-attachments/assets/dbf9d71f-5d57-47b8-ba00-228d142dabac" />  
-## lapp ne fonctione pas malgre tout les tentative et changementdes versions onnpasse a la prohaine etap 
-  <img width="282" height="593" alt="image" src="https://github.com/user-attachments/assets/dd27c1a9-7d95-4cf4-8a3a-2b49ac75f61d" />
+<img width="580" height="114" alt="image" src="https://github.com/user-attachments/assets/dbf9d71f-5d57-47b8-ba00-228d142dabac" />    
 
-## Étape 3 — Décompiler l’APK avec JADX
-# linstallation de JADX:
+## lapp ne fonctione pas malgre tout les tentative et changementdes versions onnpasse a la prohaine etap   
+
+  <img width="282" height="593" alt="image" src="https://github.com/user-attachments/assets/dd27c1a9-7d95-4cf4-8a3a-2b49ac75f61d" />  
+  
+
+## Étape 3 — Décompiler l’APK avec JADX  
+
+# linstallation de JADX:  
+
 
 <img width="1264" height="973" alt="image" src="https://github.com/user-attachments/assets/6c72d1c3-30a3-4a97-8c49-fe1ae55ab6a9" />  
 
