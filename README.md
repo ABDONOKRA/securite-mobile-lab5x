@@ -60,11 +60,14 @@
 
 # Apres lanalyse nous avons le code :  
 
-<img width="802" height="792" alt="image" src="https://github.com/user-attachments/assets/86d74448-8177-4398-ae76-69dbe6519b69" />
-# Finalement Rsultat ettendue :  
+<img width="802" height="792" alt="image" src="https://github.com/user-attachments/assets/86d74448-8177-4398-ae76-69dbe6519b69" />  
+
+# Finalement Rsultat ettendue :    
+
 <img width="364" height="52" alt="image" src="https://github.com/user-attachments/assets/e88001b0-e5ef-46bf-9c9a-6c77fbfe6a26" />
 
-  Ce que Ghidra nous montre :
+  Ce que Ghidra nous montre :  
+  
 1. La fonction `Java_sg_vantagepoint_uncrackable2_CodeCheck_bar` reçoit la chaîne de l'utilisateur
 2. Elle copie le secret **"Thanks for all the fish"** dans un buffer local (`local_34`)
 3. Elle compare avec `strncmp` la chaîne entrée avec le secret
